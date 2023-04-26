@@ -1,0 +1,42 @@
+.container-fluid{
+    text-align: center;
+    height: 30%;
+    padding-left: 5px;
+    color: black;
+   font-family:"Fugaz One";
+}
+#btn{
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color: black;
+}
+#btn:hover{
+    background-color: blue;
+}
+#resetbtn{
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+}
+#resetbtn:hover{
+    background-color: red;
+}
+#searchtext{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: bisque;
+}
+.container{
+    color:black;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+}
+.card-header{
+    background-color:darksalmon ;
+}
+.card-body{
+    background-color: darkseagreen;
+}
